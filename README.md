@@ -8,7 +8,7 @@ If you wish to leave the DESC, please [use this form](https://forms.gle/ha7uUoda
 
 DESC members who have updated their DESC People Database entry or have joined the collaboration in the last six months are exempt from the review.
  
-If you wish to complete the review ahead of time and avoid further email notifications, do the following:  
+**If you wish to complete the review ahead of time and avoid further email notifications, do the following:**  
 * Visit the [DESC People Database](https://srs.slac.stanford.edu/GroupManager/exp/LSST-DESC/protected/contactList.jsp) and log into Confluence
 * Click on your name
 * Click **Edit** and make any necessary changes
