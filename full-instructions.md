@@ -6,17 +6,26 @@
 2. DESC members will then click the provided link to visit their DESC People Database entry
    
    a. Log into your DESC Confluence account.
-      1. If you are unable to log in
-         1. Check the [DESC Tech Cheat Sheet](https://docs.google.com/document/d/1XcVmbfMRRB4FARwWphgAmM7NXQ1w0hPCGA4jgZ19oRs/edit#) 
-         2. If you are unable to resolve the issue, please reach out on #desc-help or via email to lsst-desc-help at slac dot stanford dot edu for assistance.
-            
-   b. If all looks correct in your database entry, click “Update” and click “Done Editing”
-   
-   c. If any changes are necessary, make the modifications and click “Update”.
-      1. If you have changed institutions and your new institution does not appear in the drop-down list, please select the very first option, ".institute not listed". Selecting this option has no immediate effect but will prompt us to follow up with you in the coming months.
-      2. Provisional members should leave "current institution" as "Provisional Member" or "Observer" [if they joined as observers] rather than changing to their actual institution.
+<details>
+<summary>If you are unable to log in</summary>
+         
+* Check the [DESC Tech Cheat Sheet](https://docs.google.com/document/d/1XcVmbfMRRB4FARwWphgAmM7NXQ1w0hPCGA4jgZ19oRs/edit#)
 
-   d. After clicking “Update”, verify the “lastCheckedByUser” date in your database entry was updated.
+* If you are unable to resolve the issue, please reach out on #desc-help or via email to lsst-desc-help at slac dot stanford dot edu for assistance.
+</details>
+            
+   b. If all looks correct in your database entry, click **Update** and click **Done Editing**
+   
+   c. If any changes are necessary, make the modifications and click **Update**.
+      
+   Provisional members should leave "current institution" as "Provisional Member" or "Observer" [if they joined as observers] rather than changing to their actual institution.
+<details>
+<summary>If you have moved institutions and your new institution does not appear in the drop-down list</summary>
+      
+* please select the very first option, ".institute not listed". Selecting this option has no immediate effect but will prompt us to follow up with you in the coming months.
+</details>
+
+   d. After clicking **Update**, verify the **lastCheckedByUser** date in your database entry was updated. When finished, click **Done Editing**
    
    e. If you have trouble, please ask for help on #desc-help (Slack) or send email to lsst-desc-help at slac dot stanford dot edu.
    
