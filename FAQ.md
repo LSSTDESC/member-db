@@ -2,7 +2,12 @@
 
 ### My changes to my DESC member database entry are not being saved
 
+  There was a bug discovered on 22 January 2026 that impacted DESC members with usernames that include uppercase letters. A fix is now in place. 
   Make sure you click **Update** or if modifying your affiliations, **Update Affiliations** to save your changes.  When done editing, click **Done Editing** to close your editing session.
+
+### How to I reach out for help?
+
+Post on #desc-help (Slack) or send email to lsst-desc-help at slac.stanford.edu.  Please include a screenshot of your browser window including the URL for any error messages or to display what you see when connected to your DESC Member database entry.
 
 ### I cannot log into Confluence or PubDB
 
