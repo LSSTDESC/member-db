@@ -22,7 +22,7 @@ DESC members who have updated their DESC People Database entry or have joined th
 * When done editing, click **Update** to save the changes, then click **Done Editing**
 * Check that your **LastCheckedByUser** date is set to the current date
 
-If you have trouble, please see the [full instructions](http://lsstdesc.org/membership-review/full-instructions).
-
 Once the **LastCheckedByUser** date is updated to the current date, you will have completed the review and will not receive any further email notifications!
 </details>
+
+Full instructions for the Membership Review are [available here](./full-instructions.md)
