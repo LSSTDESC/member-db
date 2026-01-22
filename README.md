@@ -1,3 +1,6 @@
+
+## Need help? Check the [FAQ](./FAQ.md) 
+
 # 2026 DESC Membership Review Introduction
 
 In December 2021, the DESC Collaboration Council ratified an amendment to the [Membership Policy](https://lsstdesc.org/assets/pdf/policies/LSST_DESC_Membership_Policy.pdf) defining an annual DESC Membership Status Review to be conducted by the Membership Committee.  The [Membership Status Review Criteria](https://confluence.slac.stanford.edu/display/LSSTDESC/Membership+Status+Review#MembershipStatusReview-criteria) are posted to Confluence and the [public website](./criteria.md). The Membership Committee (MC) is now pleased to announce the [2026 Membership Status Review Procedure](https://confluence.slac.stanford.edu/display/LSSTDESC/Membership+Status+Review#MembershipStatusReview-2025proc) which is also available on Confluence and the [public website](./procedure.md).  
