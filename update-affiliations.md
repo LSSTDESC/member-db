@@ -1,10 +1,16 @@
-## Update Affiliations
+# Update Affiliations
 
-There is a new interface in the DESC member database to update and add multiple affiliations. To make any modifications, click on your name in the list of DESC members and click **Edit**
+There is a new interface in the DESC member database to update, add, and order multiple affiliations. 
 
-<img src="https://github.com/user-attachments/assets/afae37a9-2511-41c3-acd2-84a02b8cedfe" width=50%>
+## Enabling Editing
 
-### Change, Add, and Manage Affiliations
+Check the link under **Personal Information**
+* if you see **(Done Editing)**, you are already in "edit" mode and can make your changes. 
+* If you see **(Edit)**, you must first click **(Edit)** to start "edit" mode to make changes.
+
+<img src="https://github.com/user-attachments/assets/afae37a9-2511-41c3-acd2-84a02b8cedfe" width=40%>
+
+## Change, Add, and Manage Affiliations
 
 * Scroll down to the **User's Affilations** section of the web page
 
@@ -12,7 +18,14 @@ There is a new interface in the DESC member database to update and add multiple 
 
 **Please note that to change your affiliation you must first add your new affiliation and then remove your old affiliation.**
 
-#### Adding an Affiliation
+### Updating your Position at your Listed Affiliation
+
+* Click edit in the row for your affilation in the **User's Affilations** table. Use the **Position** drop-down to choose your current position at your institution.
+* Click **Update Affiliations** to save your changes
+
+<img src="https://github.com/user-attachments/assets/9e48e5b5-338c-4ebd-909d-a13345775fc9" width=30%>
+
+### Adding an Affiliation
 
 * Go to the very bottom of the web form to the last table:
   
@@ -20,26 +33,25 @@ There is a new interface in the DESC member database to update and add multiple 
 
 * Choose your affiliation and position from the drop down lists
 
-  <img src="https://github.com/user-attachments/assets/34326f40-5048-4256-a4f7-8949be648c64" width=60%>
+  <img src="https://github.com/user-attachments/assets/34326f40-5048-4256-a4f7-8949be648c64" width=50%>
   
-* If your institution is not available in the drop-down list, choose *.institute not listed* and the Membership Committee will follow up with you to add your institiution to the database
+* If your institution is not available in the drop-down list, choose *.institute not listed* and select your position. The Membership Committee will follow up with you to add your institiution to the database
 * When you are finished adding the institution click on **Add New Affiliation**
-* Your new affiliation will appear in table above under "User's Affiliations"  
+* Your new affiliation will appear in table above under **User's Affiliations**  
   
-<img src="https://github.com/user-attachments/assets/f330e3c5-0ee7-4696-8fca-24422d115663" width=50%>
+<img src="https://github.com/user-attachments/assets/f330e3c5-0ee7-4696-8fca-24422d115663" width=40%>
 
-
-#### Removing an Affiliation
+### Removing an Affiliation
  
 Once you have more than one affiliation, you can remove one or more affilations from your list of affiliations.  Please note that at all times, you must have at least one affiliation associated with your database entry.  This includes *.institute not listed*
 
 Click **Remove** in the row associated with the affiliation you wish to delete.
 
-#### Ordering Multiple Affiliations
+### Ordering Multiple Affiliations
 
 If you have a preferred ordering for your multiple institutions to be used in DESC publications, you can reorder the list of affiliations by clicking on the row in the "User's Affiliations" table you wish to move and drag it to its new position. Click **Update Affiliations** to save your changes.
 
-#### Finish Editing
+### Finish Editing
 
 After you are done updating, click **Done Editing** to close your editing session
 
