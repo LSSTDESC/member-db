@@ -6,9 +6,15 @@ There is a new interface in the DESC member database to update, add, and order m
 
 Check the link under **Personal Information**
 * if you see **(Done Editing)**, you are already in "edit" mode and can make your changes. 
-* If you see **(Edit)**, you must first click **(Edit)** to start "edit" mode to make changes.
+* If you see **(Edit)**, you must first click **(Edit)** to start "edit" mode.
 
-<img src="https://github.com/user-attachments/assets/afae37a9-2511-41c3-acd2-84a02b8cedfe" width=40%>
+<div class="grid" markdown>
+
+<img src="https://github.com/user-attachments/assets/5af98596-5f84-4454-b6b1-2524f5fa18c1" width=30%>
+
+<img src="https://github.com/user-attachments/assets/84030eef-d29c-4307-80d1-5af3c3f636a6" width=30%>
+
+</div>
 
 ## Change, Add, and Manage Affiliations
 
@@ -20,7 +26,7 @@ Check the link under **Personal Information**
 
 ### Updating your Position at your Listed Affiliation
 
-* Click edit in the row for your affilation in the **User's Affilations** table. Use the **Position** drop-down to choose your current position at your institution.
+* Click **Edit** in the row for your affilation in the **User's Affilations** table. Use the **Position** drop-down to choose your current position at your institution.
 * Click **Update Affiliations** to save your changes
 
 <img src="https://github.com/user-attachments/assets/9e48e5b5-338c-4ebd-909d-a13345775fc9" width=30%>
@@ -49,7 +55,9 @@ Click **Remove** in the row associated with the affiliation you wish to delete.
 
 ### Ordering Multiple Affiliations
 
-If you have a preferred ordering for your multiple institutions to be used in DESC publications, you can reorder the list of affiliations by clicking on the row in the "User's Affiliations" table you wish to move and drag it to its new position. Click **Update Affiliations** to save your changes.
+If you have a preferred ordering for your multiple institutions to be used in DESC publications, you can reorder the list of affiliations by clicking on the row in the "User's Affiliations" table you wish to move and drag it to its new position. 
+
+Click **Update Affiliations** to save your changes.
 
 ### Finish Editing
 
