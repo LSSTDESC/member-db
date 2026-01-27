@@ -42,3 +42,5 @@
 **The deadline to respond to the 2026 DESC Membership Status Review is Wednesday, March 11, 2026 at 11 PM Pacific Time.**
 
 After the deadline, any DESC member who has failed to respond or reach out to the MC will have their DESC membership status modified according to the [Membership Review Criteria](./criteria.md) and they will receive a final email notification.
+
+See the [FAQ](./FAQ.md) for answers to common questions.
