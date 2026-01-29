@@ -2,6 +2,8 @@
 
 There is a new interface in the DESC member database to update, add, and order multiple affiliations. 
 
+**Note:** If you have changed affiliations and previously registered your credentials from your old institution with SLAC to access Confluence and PubDB, and will lose those credentials, you should [update your federated identity registration](https://github.com/LSSTDESC/slac-authentication-transition/wiki/Updating-Your-Federated-login-When-Changing-Institutions).
+
 ## Enabling Editing
 
 Check the link under **Personal Information**
